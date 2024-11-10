@@ -24,16 +24,5 @@ Scanner scanner = new Scanner(System.in);
             System.out.println("F");}
         else if (a>100||a<0){
             System.out.println("щось пішло не так");}
-
-
-
-
-
-
-
-
-
-
-
     }
 }
